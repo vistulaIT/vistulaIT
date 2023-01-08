@@ -4,7 +4,7 @@ Repozytorium służy do rozwiązywania istniejących problemów w kodzie
 
 ## Zasady Użytkowania
 
-Swój kod z problemem dodaj w oddzielnym folderze w środku folderu Programy
+Swój kod z problemem dodaj w osobnym folderze.
 
 Folder nazywamy funkcją kodu z dodatkiem _R (Rozwiązany) _N (Nierozwiązany)
 
