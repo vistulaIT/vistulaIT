@@ -1,16 +1,15 @@
-### Hi there 👋
+# VISTULA IT
 
-<!--
-**vistulaIT/vistulaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repozytorium służy do rozwiązywania istniejących problemów w kodzie
 
-Here are some ideas to get you started:
+## Zasady Użytkowania
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Swój kod z problemem dodaj w oddzielnym folderze w środku folderu Programy
+
+Folder nazywamy funkcją kodu z dodatkiem _R (Rozwiązany) _N (Nierozwiązany)
+
+Przykład :
+- [x] Kalkulator_R
+- [x] Kalkulator_N
+
+Pamiętaj żeby zmiany w kodzie pushować z oddzielnego brancha i stworzyć pull requesta z szczegółowym opisem zmian w githubie.
