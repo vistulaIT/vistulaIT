@@ -1,0 +1,11 @@
+Informacja dot. zadania:
+
+1. Zero z przecinkiem będzie się wyświetłał w ten sposób, jeśli np. 
+będę chciał dodać 2,5 + 0,5 to będzie 2,5 + ,5!
+
+2. Można dodawać tylko dwie liczby!
+
+3. Nie wykonują się działania w nawiasie!
+
+Mogę uznać, że zadanie zostało wykonane, bo wykonuje podstawowe działania matematyczne oraz
+liczy NWW i NWD!
